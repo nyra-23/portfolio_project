@@ -14,3 +14,9 @@ li {
 body {
     font-family: 'Open Sans', sans-serif;
 }
+
+nav ul li a {
+    text-decoration: none;
+    color: #008080;
+}
+
